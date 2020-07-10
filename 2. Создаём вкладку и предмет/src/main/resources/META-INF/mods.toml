@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[32,)"
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]] #mandatory
+
+modId="tutorial_mod_gs" #mandatory
+version="${version}" #mandatory
+displayName="Tutorial Mod GS" #mandatory
+updateJSONURL="http://myurl.me/" #optional
+displayURL="http://geekstand.top/" #optional
+logoFile="tutorial_mod_gs.png" #optional
+credits="Спасибо всем!" #optional
+
+authors="Astler" #optional
+description='''
+Вот немного описания моего мода.
+
+Это очень интересный, новый, новаторский мод. Тут есть блоки. В планах пирамиды и сферы, а пока можно приготовить сосиски и перекусить.
+'''
+
+[[dependencies.tutorial_mod_gs]]
+    modId="forge"
+    mandatory=true
+    versionRange="[32,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tutorial_mod_gs]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1]"
+    ordering="NONE"
+    side="BOTH"
