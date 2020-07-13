@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "tutorial_mod_gs:block/sun_bricks",
+        "top": "tutorial_mod_gs:block/sun_bricks",
+        "side": "tutorial_mod_gs:block/sun_bricks"
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "item.tutorial_mod_gs.sausage": "Сосиска",
+  "item.tutorial_mod_gs.enchanted_sausage": "Золотая сосиска",
+
+  "item.tutorial_mod_gs.stone_stick": "Каменная палка",
+  "item.tutorial_mod_gs.steel_ingot": "Стальной слиток",
+  "item.tutorial_mod_gs.steel_axe": "Стальной топор",
+  "item.tutorial_mod_gs.steel_shovel": "Стальная лопата",
+  "item.tutorial_mod_gs.steel_sword": "Стальной меч",
+  "item.tutorial_mod_gs.steel_pickaxe": "Стальная кирка",
+  "item.tutorial_mod_gs.steel_hoe": "Стальная мотыга",
+  "item.tutorial_mod_gs.moon_ingot": "Лунный слиток",
+  "item.tutorial_mod_gs.moon_axe": "Лунный топор",
+  "item.tutorial_mod_gs.moon_shovel": "Лунная лопата",
+  "item.tutorial_mod_gs.moon_sword": "Лунный меч",
+  "item.tutorial_mod_gs.moon_pickaxe": "Лунная кирка",
+  "item.tutorial_mod_gs.moon_hoe": "Лунная мотыга",
+
+  "itemGroup.tutorial_mod_gs_items": "Тестовый мод: Предметы"
+}

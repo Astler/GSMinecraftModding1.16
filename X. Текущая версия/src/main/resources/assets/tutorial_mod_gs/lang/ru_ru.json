@@ -1,0 +1,9 @@
+{
+  "block.tutorial_mod_gs.sun_ore": "Солнечная руда",
+
+  "item.tutorial_mod_gs.sausage": "Сосиска",
+  "item.tutorial_mod_gs.golden_sausage": "Золотая сосиска",
+  "itemGroup.tutorial_mod_gs": "Лучший мод",
+
+  "hello_msg": "Привет! Это sp? Ничего, скоро мы добавим этому миру разнообразия =)"
+}

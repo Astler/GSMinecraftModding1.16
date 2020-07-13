@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:sunflower"
+    },
+    "#": {
+      "item": "minecraft:bricks"
+    }
+  },
+  "result": {
+    "item": "tutorial_mod_gs:sun_bricks",
+    "count": 1
+  }
+}

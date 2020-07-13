@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tutorial_mod_gs:block/sun_dust_glass"
+  }
+}

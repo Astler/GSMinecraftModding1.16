@@ -11,7 +11,6 @@ import org.apache.logging.log4j.Logger;
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 public class TutorialGSMod {
 
-    public static final Logger LOGGER = LogManager.getLogger();
     public static final String MODID = "tutorial_mod_gs";
 
     public TutorialGSMod() {

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "tutorial_mod_gs:moon_ingot"
+    }
+  },
+  "result": {
+    "item": "tutorial_mod_gs:moon_pickaxe"
+  }
+}

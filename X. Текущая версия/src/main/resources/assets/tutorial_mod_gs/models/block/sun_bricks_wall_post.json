@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "tutorial_mod_gs:block/sun_bricks"
+  }
+}

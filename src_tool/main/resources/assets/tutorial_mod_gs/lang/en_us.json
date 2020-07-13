@@ -1,0 +1,20 @@
+{
+  "item.tutorial_mod_gs.sausage": "Sausage",
+  "item.tutorial_mod_gs.enchanted_sausage": "Enchanted Sausage",
+
+  "item.tutorial_mod_gs.stone_stick": "Stone Stick",
+  "item.tutorial_mod_gs.steel_ingot": "Steel Ingot",
+  "item.tutorial_mod_gs.steel_axe": "Steel Axe",
+  "item.tutorial_mod_gs.steel_shovel": "Steel Shovel",
+  "item.tutorial_mod_gs.steel_sword": "Steel Sword",
+  "item.tutorial_mod_gs.steel_pickaxe": "Steel Pickaxe",
+  "item.tutorial_mod_gs.steel_hoe": "Steel Hoe",
+  "item.tutorial_mod_gs.moon_ingot": "Moon Ingot",
+  "item.tutorial_mod_gs.moon_axe": "Moon Axe",
+  "item.tutorial_mod_gs.moon_shovel": "Moon Shovel",
+  "item.tutorial_mod_gs.moon_sword": "Moon Sword",
+  "item.tutorial_mod_gs.moon_pickaxe": "Moon Pickaxe",
+  "item.tutorial_mod_gs.moon_hoe": "Moon Hoe",
+
+  "itemGroup.tutorial_mod_gs_items": "Test Mod: Items"
+}

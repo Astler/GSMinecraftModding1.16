@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "tutorial_mod_gs:sun_ore"
+  },
+  "result": "tutorial_mod_gs:sun_element",
+  "experience": 1.0,
+  "cookingtime": 100
+}

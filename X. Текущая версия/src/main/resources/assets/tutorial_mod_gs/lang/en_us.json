@@ -1,0 +1,9 @@
+{
+  "block.tutorial_mod_gs.sun_ore": "Sun Ore",
+
+  "item.tutorial_mod_gs.sausage": "Sausage",
+  "item.tutorial_mod_gs.golden_sausage": "Golden Sausage",
+  "itemGroup.tutorial_mod_gs": "Best Mod",
+
+  "hello_msg": "Hi! Is this sp? That's ok, soon this world will be better =)"
+}
