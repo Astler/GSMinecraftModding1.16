@@ -9,10 +9,10 @@ import java.util.function.Supplier;
 
 public enum ModItemTier implements IItemTier {
     STEEL(2, 350, 6.5F, 2.3F, 12, () -> {
-        return Ingredient.fromTag(ItemTags.PLANKS);
+        return Ingredient.fromItems(ModItems.STEEL_INGOT.get());
     }),
     MOON_STONE(3, 1061, 8.0F, 3.0F, 18, () -> {
-        return Ingredient.fromTag(ItemTags.field_232909_aa_);
+        return Ingredient.fromItems(ModItems.MOON_INGOT.get());
     });
 
     private final int harvestLevel;
@@ -22,7 +22,7 @@ public enum ModItemTier implements IItemTier {
     private final int enchantability;
     private final LazyValue<Ingredient> repairMaterial;
 
-    private ModItemTier(int harvestLevelIn, int maxUsesIn, float efficiencyIn, float attackDamageIn, int enchantabilityIn, Supplier<Ingredient> repairMaterialIn) {
+    ModItemTier(int harvestLevelIn, int maxUsesIn, float efficiencyIn, float attackDamageIn, int enchantabilityIn, Supplier<Ingredient> repairMaterialIn) {
         this.harvestLevel = harvestLevelIn;
         this.maxUses = maxUsesIn;
         this.efficiency = efficiencyIn;

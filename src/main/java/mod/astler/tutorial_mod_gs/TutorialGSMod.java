@@ -1,8 +1,11 @@
 package mod.astler.tutorial_mod_gs;
 
 import mod.astler.tutorial_mod_gs.item.ModItems;
+import net.minecraft.client.renderer.RenderType;
+import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 @Mod(TutorialGSMod.MODID)
